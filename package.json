@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Halvarado30/UpTask/issues"
   },
-  "homepage": "https://github.com/Halvarado30/UpTask#readme"
+  "homepage": "https://github.com/Halvarado30/UpTask#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
