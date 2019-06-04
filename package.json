@@ -1,0 +1,24 @@
+{
+  "name": "uptask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Halvarado30/UpTask.git"
+  },
+  "keywords": [
+    "Gestor",
+    "Proyectos",
+    "tareas"
+  ],
+  "author": "Hesler Alvarado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Halvarado30/UpTask/issues"
+  },
+  "homepage": "https://github.com/Halvarado30/UpTask#readme"
+}
